@@ -24,7 +24,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@atleta-chain/sdk-core": "^4.2.8",
+    "@atleta-chain/sdk-core": "^4.2.10",
     "@atleta-chain/swap-router-contracts": "^1.2.1",
     "@atleta-chain/v3-periphery": "^1.1.1",
     "@atleta-chain/v3-staker": "1.0.2",
