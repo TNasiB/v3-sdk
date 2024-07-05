@@ -4,7 +4,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "3.11.18",
+  "version": "3.11.19",
   "description": "⚒️ An SDK for building applications on top of Uniswap V3",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -24,7 +24,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@atleta-chain/sdk-core": "^4.2.19",
+    "@atleta-chain/sdk-core": "^4.2.20",
     "@atleta-chain/swap-router-contracts": "^1.2.1",
     "@atleta-chain/v3-periphery": "^1.1.1",
     "@atleta-chain/v3-staker": "1.0.2",

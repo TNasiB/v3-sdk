@@ -15,10 +15,10 @@
   resolved "https://registry.yarnpkg.com/@atleta-chain/lib/-/lib-4.0.1-alpha.tgz#5fc80bb4486ee13ce1123fa08bbe0fc1243e65af"
   integrity sha512-lKA/UEf7KwHmRZItS4WzJ4nLvDNYklMlJ6pU0rT0Lxhku+Upxk0mbFTnK9OIe8YCpUFjVj1O4Ro48/nRuP7nXg==
 
-"@atleta-chain/sdk-core@^4.2.19":
-  version "4.2.19"
-  resolved "https://registry.yarnpkg.com/@atleta-chain/sdk-core/-/sdk-core-4.2.19.tgz#1b40d91ea4931d3799fb23eabb985176ec3911cd"
-  integrity sha512-UIW9quogU3AlfxIvuHq6kC5HPuLp6AbFifninwevaw0etMurcRRO/11TaoMPqXBL9xzusruElR7EMNdUHKBJEQ==
+"@atleta-chain/sdk-core@^4.2.20":
+  version "4.2.20"
+  resolved "https://registry.yarnpkg.com/@atleta-chain/sdk-core/-/sdk-core-4.2.20.tgz#24ef10438739036ac0d1dc87aff5ab9487e3992b"
+  integrity sha512-TXVrQw2h6GSPo1NEwIrvBYtXFsKr5soIhubroTwMGt9C+wsRrpAZPnzEaiiPvmrjipg7Ueoj4DqyR1MYZt3M/g==
   dependencies:
     "@ethersproject/address" "^5.0.2"
     big.js "^5.2.2"
